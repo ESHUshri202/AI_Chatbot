@@ -1,0 +1,4 @@
+Theory -> NLP concepts (stemming, tokenization, bag of words), Some kind of NN concept also used.
+Create Training 
+Pytorch model and training 
+Save/load model and implement the chat.
